@@ -8,3 +8,9 @@
 ___
 
 _Formatação_ **de** ~Teste~ __*com Markdown*__
+
+```js
+if () {
+  console.log('sem condição bixo');
+}
+```
